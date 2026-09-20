@@ -15,4 +15,5 @@ Insert the MicroSD card into your XTEINK device and power it on.
 Navigate to Apps on the home screen and select Knucklebones.
 
 ##IMPORTANT NOTICE##
+
 THIS APP IS COMPLETELY UNTESTED AND MIGHT NOT WORK/MIGHT BRICK YOUR DEVICE INSTALL AT YOUR OWN RISK
