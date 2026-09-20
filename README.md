@@ -8,7 +8,7 @@ Go to https://ternos.org/ and use the device files menu with your device connect
 
 https://github.com/hellominecraft913-dev/Knucklebones-for-ternos/blob/0f1df609ddfa8c6934c0a82e6c609fd76e855dba/knucklebones.bin
 
-3. Launch the Game:
+Launch the Game:
 
 Insert the MicroSD card into your XTEINK device and power it on.
 
